@@ -1,0 +1,1 @@
+Hono + Bun + MongoDB + Google oauth2 implementation with cookie-based sessions
